@@ -1,5 +1,5 @@
 # korean-stroke
-**korean-stroke**는 한글 문자열의 획 횟수를 계산해주는 JavaScript 라이브러리입니다.
+- **korean-stroke**는 한글 문자열의 획 횟수를 계산해주는 JavaScript 라이브러리입니다.
 - **korean-stroke** is a JavaScript library for calculating the total stroke count of Korean characters in a string.
 
 ## Installation
@@ -19,6 +19,7 @@ import strokeCounter from 'korean-stroke'
 
 console.log(strokeCounter('안녕')); // 11
 ```
+**Note**: The `strokeCounter` function calculates the stroke count for Korean characters only. Any non-Korean characters in the input string will not be counted towards the total stroke count.
 
 ## API
 
