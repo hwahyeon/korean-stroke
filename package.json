@@ -1,0 +1,29 @@
+{
+  "name": "korean-stroke",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hwahyeon/korean-stroke.git"
+  },
+  "keywords": [
+    "korean",
+    "stroke",
+    "stroke counter",
+    "hangul",
+    "hangeul"
+  ],
+  "author": "hwahyeon <hwahyeon.dev@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hwahyeon/korean-stroke/issues"
+  },
+  "homepage": "https://github.com/hwahyeon/korean-stroke#readme",
+  "dependencies": {
+    "korean-unpacker": "^1.0.3"
+  }
+}
