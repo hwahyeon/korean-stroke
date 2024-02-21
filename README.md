@@ -28,7 +28,7 @@ console.log(strokeCounter('안녕')); // 11
 - **Parameters**
   - `string` (String): The Korean string to calculate.
 - **Returns**
-  - (Number): A total stroke count of the input string..
+  - (Number): A total stroke count of the input string.
 
 ## License
 This project is provided under the MIT License.
