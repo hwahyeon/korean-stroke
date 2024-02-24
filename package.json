@@ -1,6 +1,6 @@
 {
   "name": "korean-stroke",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "A JavaScript library for calculating the total stroke count of Korean characters in a string.",
   "main": "src/index.js",
   "scripts": {
