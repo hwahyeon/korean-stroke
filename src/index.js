@@ -22,7 +22,7 @@ const strokeCounts = {
  * @returns {number} The total stroke count for all characters in the input string.
  * 
  * @example
- * strokeCounter("안녕하세요"); // returns the total stroke count, e.g., 22
+ * strokeCounter("안녕"); // returns the total stroke count, e.g., 11
  */
 function strokeCounter(korean){
   const unpackKorean = hangul.unpack(korean)
