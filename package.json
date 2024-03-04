@@ -1,6 +1,6 @@
 {
   "name": "korean-stroke",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "한글의 획수를 계산해주는 NPM 패키지",
   "main": "src/index.js",
   "scripts": {
@@ -15,7 +15,9 @@
     "stroke",
     "stroke counter",
     "hangul",
-    "hangeul"
+    "hangeul",
+    "한글",
+    "획수"
   ],
   "author": "hwahyeon <hwahyeon.dev@gmail.com>",
   "license": "MIT",
