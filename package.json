@@ -1,7 +1,7 @@
 {
   "name": "korean-stroke",
-  "version": "1.1.2",
-  "description": "한글의 획수를 계산해주는 NPM 패키지",
+  "version": "1.1.3",
+  "description": "Calculate stroke count of Korean Hangul characters.",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,10 +12,14 @@
   },
   "keywords": [
     "korean",
-    "stroke",
-    "stroke counter",
     "hangul",
     "hangeul",
+    "stroke",
+    "stroke count",
+    "stroke counter",
+    "character analysis",
+    "text processing",
+    "language tool",
     "한글",
     "획수"
   ],
