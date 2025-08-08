@@ -1,7 +1,7 @@
 {
   "name": "korean-stroke",
-  "version": "1.1.4",
-  "description": "Calculate stroke count of Korean Hangul characters.",
+  "version": "1.1.5",
+  "description": "Stroke count calculator for Korean Hangul characters",
   "main": "src/index.js",
   "repository": {
     "type": "git",
